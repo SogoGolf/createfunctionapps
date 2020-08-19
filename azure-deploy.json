@@ -7,7 +7,7 @@
             "type": "String"
         },
         "serverfarms_ASP_production_ac31_externalid": {
-            "defaultValue": "/subscriptions/a2099107-c225-4b9a-a03f-6e10e653352c/resourceGroups/prodprr/providers/Microsoft.Web/serverfarms/AustraliaEastPlan",
+            "defaultValue": "/subscriptions/a2099107-c225-4b9a-a03f-6e10e653352c/resourceGroups/sogo-js-functions/providers/Microsoft.Web/serverfarms/AustraliaSoutheastPlan",
             "type": "String"
         }
     },
